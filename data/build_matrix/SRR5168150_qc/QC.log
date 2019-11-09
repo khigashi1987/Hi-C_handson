@@ -1,0 +1,29 @@
+
+File	/sdat3/KurokawaLab/higashi/lecture/HiC/analysis/build_matrix/SRR5168150_100kb.h5		
+Pairs considered	17105434		
+Min rest. site distance	300		
+Max library insert size	1000		
+
+#	count	(percentage w.r.t. total sequenced reads)
+Pairs mappable, unique and high quality	10284058	(60.12)
+Pairs used	7271276	(42.51)
+One mate unmapped	2906131	(16.99)
+One mate not unique	2313971	(13.53)
+One mate low quality	1601274	(9.36)
+
+#	count	(percentage w.r.t. mappable, unique and high quality pairs)
+dangling end	1	(0.00)
+self ligation (removed)	0	(0.00)
+One mate not close to rest site	0	(0.00)
+same fragment	2695249	(26.21)
+self circle	0	(0.00)
+duplicated pairs	317532	(3.09)
+
+#	count	(percentage w.r.t. total valid pairs used)
+inter chromosomal	1983623	(27.28)
+short range < 20kb	1267901	(17.44)
+long range	4019752	(55.28)
+inward pairs	1224358	(16.84)
+outward pairs	1497685	(20.60)
+left pairs	1284198	(17.66)
+right pairs	1281412	(17.62)

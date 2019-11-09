@@ -1,0 +1,2 @@
+File	One mate not close to rest site	One mate not close to rest site %	dangling end	dangling end %	duplicated pairs	duplicated pairs %	same fragment	same fragment %	self circle	self circle %	self ligation (removed)	self ligation (removed) %
+/sdat3/KurokawaLab/higashi/lecture/HiC/analysis/build_matrix/SRR5168118_100kb.h5	0	0.0	51	4.528753455283488e-06	267502	0.023753933466573403	2792999	0.24801576219320248	0	0.0	0	0.0
