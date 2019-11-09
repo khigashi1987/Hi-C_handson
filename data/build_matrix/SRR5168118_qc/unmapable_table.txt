@@ -1,2 +1,0 @@
-File	Pairs used	Pairs used_%	One mate low quality	One mate low quality_%	One mate not unique	One mate not unique_%	One mate unmapped	One mate unmapped_%
-/sdat3/KurokawaLab/higashi/lecture/HiC/analysis/build_matrix/SRR5168118_100kb.h5	8200825	0.4540046796530314	1669918	0.09244808743471918	2207086	0.12218616692792376	2924924	0.16192629200470235

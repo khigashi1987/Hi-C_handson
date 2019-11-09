@@ -1,2 +1,0 @@
-File	inter chromosomal	inter chromosomal %	short range < 20kb	short range < 20kb %	long range	long range %
-/sdat3/KurokawaLab/higashi/lecture/HiC/analysis/build_matrix/SRR5168118_100kb.h5	1971184	0.24036410970847447	1043969	0.12730048501217867	5185672	0.6323354052793468

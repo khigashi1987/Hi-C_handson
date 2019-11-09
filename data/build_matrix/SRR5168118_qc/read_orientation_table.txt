@@ -1,2 +1,0 @@
-File	inward pairs	inward pairs %	outward pairs	outward pairs %	left pairs	left pairs %	right pairs	right pairs %
-/sdat3/KurokawaLab/higashi/lecture/HiC/analysis/build_matrix/SRR5168118_100kb.h5	1521632	0.24425677177866267	1598056	0.25652457340639695	1557730	0.2500513271952589	1552223	0.24916732761968147
