@@ -16952,7 +16952,7 @@ SRR5168150
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span>%%bash
@@ -16964,7 +16964,7 @@ SRR5168150
     <span class="nb">echo</span> <span class="nv">$srr_id</span>
     <span class="nv">matrixfile</span><span class="o">=</span><span class="si">${</span><span class="nv">datadir</span><span class="si">}</span>/<span class="si">${</span><span class="nv">srr_id</span><span class="si">}</span>_100kb_corrected.h5
     <span class="nv">out_pc1</span><span class="o">=</span><span class="si">${</span><span class="nv">outdir</span><span class="si">}</span>/<span class="si">${</span><span class="nv">srr_id</span><span class="si">}</span>_pc1.bw
-    <span class="nv">outfile</span><span class="o">=</span>./<span class="si">${</span><span class="nv">srr_id</span><span class="si">}</span>_pc.png
+    <span class="nv">outfile</span><span class="o">=</span><span class="si">${</span><span class="nv">outdir</span><span class="si">}</span>/<span class="si">${</span><span class="nv">srr_id</span><span class="si">}</span>_pc.png
     hicPlotMatrix <span class="se">\</span>
         --matrix <span class="si">${</span><span class="nv">matrixfile</span><span class="si">}</span> <span class="se">\</span>
         --outFileName <span class="si">${</span><span class="nv">outfile</span><span class="si">}</span> <span class="se">\</span>
