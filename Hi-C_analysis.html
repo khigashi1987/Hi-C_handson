@@ -16832,16 +16832,17 @@ HiCExplorerでは、<code>hicPlotDistVsCounts</code>コマンドで計算でき�
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span>%%bash
 <span class="nv">datadir</span><span class="o">=</span>data/correct_matrix
 <span class="nv">data1</span><span class="o">=</span><span class="si">${</span><span class="nv">datadir</span><span class="si">}</span>/SRR5168118_100kb_corrected.h5
 <span class="nv">data2</span><span class="o">=</span><span class="si">${</span><span class="nv">datadir</span><span class="si">}</span>/SRR5168150_100kb_corrected.h5
+<span class="nv">outdir</span><span class="o">=</span>data/plot_matrix
 hicPlotDistVsCounts <span class="se">\</span>
     --matrices <span class="si">${</span><span class="nv">data1</span><span class="si">}</span> <span class="si">${</span><span class="nv">data2</span><span class="si">}</span> <span class="se">\</span>
-    --plotFile ./dist_count.png <span class="se">\</span>
+    --plotFile <span class="si">${</span><span class="nv">outdir</span><span class="si">}</span>/dist_count.png <span class="se">\</span>
     --labels <span class="s1">&#39;WT&#39;</span> <span class="s1">&#39;NIPBL&#39;</span> <span class="se">\</span>
     --maxdepth <span class="m">20000000</span> <span class="se">\</span>
     --plotsize <span class="m">5</span> <span class="m">4</span>.2
