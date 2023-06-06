@@ -1,5 +1,5 @@
 # Hi-C_handson
-Hi-C解析実習の資料。2022-05-24
+Hi-C解析実習の資料。2023-06-06
   
 [HTML資料へのリンク](https://khigashi1987.github.io/Hi-C_handson/)
 
